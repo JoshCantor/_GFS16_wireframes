@@ -1,0 +1,45 @@
+body {
+	font-family: arial;
+
+}
+
+.nav_bar, .nav_link {
+	padding-left: 20px;
+}
+
+.nav_bar, .content, .product {
+	float: left;
+}
+
+.nav_bar {
+	width: 15%;
+	padding-bottom: 400px;
+	margin-right: 40px;
+	border: 1px solid;
+}
+
+.content {
+	width: 60%;
+}
+
+.indiv_product {
+	float: left;
+	width: 125px;
+	padding-left: 30px;
+	padding-right: 85px;
+	padding-top: 8px;
+	padding-bottom: 40px;
+	margin: 40px;
+	border: 1px solid;
+}
+
+.bear {
+	padding-left: 15px;
+}
+
+
+
+
+
+
+

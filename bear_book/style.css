@@ -1,0 +1,61 @@
+body {
+	font-family: arial;
+}
+
+.contents_less_title {
+	border: 1px solid;
+	overflow: auto;
+	width: 50%;
+	height: 75%;
+	margin-left: 1.5%;
+}
+
+.big_photo {
+	width: 15%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 25px;
+	margin-right: -3%
+
+}
+
+.bear_photo {
+	margin-right: 0px
+}
+
+.box_content {
+	width: 70%;
+	height: 100%;
+	float: left;
+	margin-left: 1.5%;
+}
+
+.like_comment {
+	overflow: hidden;
+	padding-top: 5%; 
+}
+
+ul {
+	padding-left: 0px;
+}
+
+ul li {
+	display: inline;
+	padding-left: 0px;
+}
+
+.like_text {
+	font-size: 14pt;
+	padding: 0 10px;
+	margin-right: 25px
+}
+
+.comment_text {
+	font-size: 14pt;
+	padding: 0 5px;
+}
+
+.blank_space {
+	margin-top: 25px;
+}
